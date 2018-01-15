@@ -22,7 +22,5 @@
            }
        });
         $(".logo-picker").remove();
-
-
-    // Your code here...
+        $(".drip-logo").html('<img src="https://shanefromfargo.github.io/drip-reskin/drip_logo.jpg" width="42"/>');
 })();
